@@ -1,0 +1,90 @@
+
+
+
+*{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    font-color: #365899;
+}
+p{
+    font-size:12px;
+    padding-right:69px;
+}
+a:hover{text-decoration: underline;}
+
+.sign_up{
+    width:400px;
+    margin-right:180px;
+    height:auto;
+    float:right;
+}
+
+
+.text_style{
+    border:1px solid #ccc;
+    border-radius: 5px;
+    height:45px;
+    margin-bottom:10px;
+    box-sizing: border-box;
+}
+h1{
+    margin-top:25px;
+    margin-bottom:15px;
+}
+h2{
+  margin-top:25px;
+    margin-bottom:15px;  
+}
+.surname{
+    margin-left:5px;
+    width:193px;
+}
+.first_name{
+    width:193px;
+    margin-right:5px;
+}
+::-wevkit-input-placeholder-{
+    font-size:20px;
+}
+:-moz-placeholder{
+    /*older firefox*/
+     font-size:20px;
+}
+::-moz-placeholder{
+    /* firefox 19+*/
+    font-size:20px; 
+}
+:-ns-input-placeholder-{
+    font-size:20px;
+}
+.select_style{
+    width:60px;
+    height:30px;
+    
+}
+.length{width:400px}
+.mar_left{margin-left:-4px;}
+.select_text{ 
+    margin-left:10px;
+    font-size:12px;
+    
+}
+.select_text_a{margin-left:188px;}
+.radio{
+    margin:20px 0px;
+}
+.radio_size{font-size:20px}
+.submit{
+    padding:10px 20px;
+    font-size:20px;
+    border:1px solid #3B6E22;
+    border-radius:5px;
+    margin:20px 0px;
+   
+    color:#fff;
+    background-color:#517E41;
+}
+.submit:hover{ background-color:#71B05D ; }
